@@ -35,19 +35,19 @@ Los códigos aqui presentes permiten calcular algunos de los algoritmos mas impo
 ---
 
 ## Códigos disponibles:
-* Interpolación (de segundo y tercer grado)
+* Interpolación (de segundo y tercer grado).
 * Mínimos cuadrados.
 * Mínimos exponenciales.
 * Mínimos potenciales.
-* Regresión lineal de grado 2
-* Regresión lineal de grado 3
-* Metodo iterativo de Jacobi para matrices
-* Convergencia (radio espectral) para Jacobi
-* Metodo iterativo de Gauss-Seidel para matrices
-* Raices cuadradas por el método iterativo de la secante
-* Raices cuadradas por el método iterativo de bisección
-* Raices cuadradas por el método iterativo de Newton
-* Sistemas de ecuaciones no lineales de Newton
+* Regresión lineal de grado 2.
+* Regresión lineal de grado 3.
+* Metodo iterativo de Jacobi para matrices.
+* Convergencia (radio espectral) para Jacobi.
+* Metodo iterativo de Gauss-Seidel para matrices.
+* Raices cuadradas por el método iterativo de la secante.
+* Raices cuadradas por el método iterativo de bisección.
+* Raices cuadradas por el método iterativo de Newton.
+* Sistemas de ecuaciones no lineales de Newton.
 
 ---
 
