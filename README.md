@@ -67,10 +67,18 @@ Los códigos aqui presentes permiten calcular algunos de los algoritmos mas impo
 ## Installación en la calculadora
 
 1. Descargar el repositorio.
-2. En la carpeta `src` estan todos los programas, cada programa termina con `.tns`. Descargar todos los `.tns`
-3. Abrir la [pagina web para transferencia de archivos tns](https://nspireconnect.ti.com/nsc/file-transfer) y transferir todos los `.tns` a la calculadora conectada a la PC.
+2. En la carpeta "`tns`" estan todos los archivos `.tns`, estos son los códigos que se deben de pasar a la calculadora (o al programa de estudiantes).
+3. Abrir la [pagina web para transferencia de archivos tns](https://nspireconnect.ti.com/nsc/file-transfer) y transferir todos los `.tns` a la calculadora.
 > Guardar preferiblemente los códigos dentro de la carpeta `MyLib` dentro de la calculadora.
 4. Dentro de la calculadora seleccionar las siguientes opciones en orden: `Botón Home` → `Botón menu` → `Botón B`/`refresh all libraries`
+
+---
+## Códigos originales para cada funcion
+
+
+
+En el caso de no querer descargar los `.tns`, en la carpeta "src" se encuentran los códigos en TI-BASIC de todas las funciones del cuadro de acontinuación.
+
 
 
 ---
