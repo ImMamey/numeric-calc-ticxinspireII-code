@@ -57,7 +57,7 @@ Los códigos aqui presentes permiten calcular algunos de los algoritmos mas impo
     <img src="resources\images\calc.jpg" title="calculator" width="300">
 </p>
 
-### Software y extras requeridos:
+### Software y extras:
 
 * Calculadora con OS versión: 5.4.0.259 (mínimo)
 * [TI-Nspire CX CAS Student Software](https://education.ti.com/en/software/details/en/36BE84F974E940C78502AA47492887AB/ti-nspirecxcas_pc_full) version: 6.0.3.374: programa de escritorio para probar los códigos en PC y transferencia de archivos.
