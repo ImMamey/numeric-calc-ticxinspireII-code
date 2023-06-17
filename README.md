@@ -15,7 +15,19 @@
 </table>
 
 ---
+## Sobre este repositorio
 
+
+Este repositorio es una collecion de codigos automatizados escritos en TI-Basic para calculadoras TI NSPIRE CX II CAS.
+
+Los códigos aqui presente permiten calcular algunos de los algoritmos mas importantes de cálculo numérico / métodos numericos, paso a paso, y con iteracion.
+
+> Por ejemplo:
+<p align="center">
+    <img src="resources\images\example.png" title="calculator" width="300">
+</p>
+
+---
 
 ## Códigos disponibles:
 * Interpolación (de segundo y tercer grado)
@@ -34,11 +46,10 @@
 
 ---
 
-
 ## Requisitos
 * [Texas Instruments NSpire CX II CAS](https://education.ti.com/en/products/calculators/graphing-calculators/ti-nspire-cx-ii-cx-ii-cas)
 <p align="center">
-    <img src="resources\images\61c8jg5GogL.jpg" title="calculator" width="300">
+    <img src="resources\images\calc.jpg" title="calculator" width="300">
 </p>
 
 ### Software y extras requeridos:
@@ -48,7 +59,7 @@
 * [Pagina web para transferencia de archivos](https://nspireconnect.ti.com/nsc/file-transfer): en el caso de no poseer licencia para usar TI-Nspire CX CAS Student Software (OPCIONAL) 
 
 ---
-## Installar en la calculadora
+## Installación en la calculadora
 
 1. Descargar el repositorio.
 2. En la carpeta `src` estan todos los programas, cada programa termina con `.tns`. Descargar todos los `.tns`
@@ -110,3 +121,8 @@
     </tr>
 </table>
 
+---
+
+## Legal
+
+ El código en este repositorio es estrictamente educacional. No me hago responsable del uso de los códigos aqui presentes.
