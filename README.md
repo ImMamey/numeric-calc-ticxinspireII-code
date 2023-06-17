@@ -1,6 +1,8 @@
 <p align="center">
-    <h1 align="center"/> Algoritmos para NSPIRE CX II CAS para Cálculo Numerico </h1>
+    <h1 align="center"/> Algoritmos para NSPIRE CX II CAS de Cálculo Numerico </h1>
+    <h4 align="center"> <a href="resources">English </a></h4>
 </p>
+
 
 
 ## Desarrollador
@@ -30,13 +32,6 @@
 * Raices cuadradas por el método iterativo de Newton
 * Sistemas de ecuaciones no lineales de Newton
 
-
-
----
-## Caracteristicas
-* Conectarse a un servidor mediante sockets:
-* Conectarse a un servidor mediante sockets e hilos con multiples clientes.
-
 ---
 
 
@@ -46,10 +41,11 @@
     <img src="resources\images\61c8jg5GogL.jpg" title="calculator" width="300">
 </p>
 
+#### Requisitos/detalles extras a tomar en cuenta:
 
-#### Dev dependencies y extras:
-* [Mypy](http://mypy-lang.org/) (Opcional: solo para dessarrollo)
-* [Poetry](https://python-poetry.org/)
+* Códgios fueron probados en calculadora con OS versión: 5.4.0.259
+* Códigos corren en software de desktop [TI-Nspire CX CAS Student Software](https://education.ti.com/en/software/details/en/36BE84F974E940C78502AA47492887AB/ti-nspirecxcas_pc_full) version: 6.0.3.374
+
 ---
 ## Installación
 
