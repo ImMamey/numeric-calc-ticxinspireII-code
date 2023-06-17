@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center"/> Algoritmos para NSPIRE CX II CAS de Cálculo Numerico </h1>
-    <h4 align="center"> <a href="resources">English </a></h4>
+    <h4 align="center"> <a href="resources">Click here for the English version </a></h4>
 </p>
 
 
@@ -59,7 +59,7 @@
 
 ---
 
-## Contenido de cada archivo respecto al tema:
+## Contenido de cada archivo tns respecto al tema:
 
 
 <style>
@@ -75,6 +75,19 @@
        <th> Funciones</th>
     </tr>
     <tr>
+        <th rowspan="3">Raices de Ecuaciones no lineales</th>
+        <th> raice_biseccion.tns </th>
+        <th> secante()<br> secante_pap()</th>
+    </tr>
+    <tr>
+        <th>raices_newton.tns</th>
+        <th>newton() <br> newton_pap() </th>
+    </tr>
+    <tr>
+        <th>raices_secante.tns</th>
+        <th>secante() <br> secante_pap()</th>
+    </tr>
+    <tr>
         <th rowspan="2"> Sistemas de ecuaciones lineales: Jacobi y Gauss-Seidel</th>
         <th> jacobi.tns  </th>
         <th> jacobi(a,b,x0,tol) <br> jacobi_conv(a,b,x0,tol)</th>
@@ -82,6 +95,16 @@
     <tr>
         <th> seidel.tns </th>
         <th> seidel(a,b,x0,tol) <br> seidel_conv(a,b,x0,tol)</th>
+    </tr>
+    <tr>
+        <th> Sistemas de ecuaciones no lineales: Newton</th>
+        <th>sist_ecnl_newton.tns</th>
+        <th>newton_sistecnl2i()</th>
+    </tr>
+    <tr>
+        <th>Interpolacion y ajuste de curvas (minimos cuadrados)</th>
+        <th>interpol_minimos.tns</th>
+        <th>interpol(x,y,n) <br> minimos2(x,y,n) <br> minimos_expone(x,y) <br> minimos_poten(x,y) </th>
     </tr>
 </table>
 
