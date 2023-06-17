@@ -59,7 +59,8 @@
 
 ---
 
-## Uso de los códigos en la calculadoras:
+## Contenido de cada archivo respecto al tema:
+
 
 <style>
     table, th, td {
@@ -72,6 +73,15 @@
        <th> Tema </th>
        <th> TNS con códigos </th> 
        <th> Funciones</th>
+    </tr>
+    <tr>
+        <th rowspan="2"> Sistemas de ecuaciones lineales: Jacobi y Gauss-Seidel</th>
+        <th> jacobi.tns  </th>
+        <th> jacobi(a,b,x0,tol) <br> jacobi_conv(a,b,x0,tol)</th>
+    </tr>
+    <tr>
+        <th> seidel.tns </th>
+        <th> seidel(a,b,x0,tol) <br> seidel_conv(a,b,x0,tol)</th>
     </tr>
 </table>
 
