@@ -99,7 +99,14 @@
     <tr>
         <th>Interpolacion y ajuste de curvas (minimos cuadrados)</th>
         <th>interpol_minimos.tns</th>
-        <th>interpol(x,y,n) <br> minimos2(x,y,n) <br> minimos_expone(x,y) <br> minimos_poten(x,y) </th>
+        <th>
+        interpol(x,y,n) <br> minimos2(x,y,n) <br> minimos_expone(x,y) <br> minimos_poten(x,y) 
+        </th>
+    </tr>
+    <tr>
+        <th>Integración Numerica</th>
+        <th> integracion.tns</th>
+        <th> intg_trap() <br> intg_longarco() <br> intg_trap2(a,b,tol,fx2)</th>
     </tr>
 </table>
 
