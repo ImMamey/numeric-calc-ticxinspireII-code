@@ -123,6 +123,10 @@ Los códigos aqui presente permiten calcular algunos de los algoritmos mas impor
 
 ---
 
-## Legal
+## Licencia
+#### Resumen:
+ 1. El código en este repositorio es estrictamente educacional.
+ 2. No me hago responsable del uso (ni posibles daños por el uso) de los códigos aqui presentes.
+ 3. Eres libre de distribuir los codigos aqui presentes.
 
- El código en este repositorio es estrictamente educacional. No me hago responsable del uso de los códigos aqui presentes.
+ Para mas informacion leer el archivo [`LICENSE`](resources/legal/LICENSE)
