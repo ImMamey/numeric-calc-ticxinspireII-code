@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center"/> Algoritmos para NSPIRE CX II CAS de Cálculo Numerico </h1>
+    <h1 align="center"/> Algoritmos para calculadoras NSPIRE CX II CAS de Cálculo Numerico </h1>
     <h4 align="center"> <a href="resources">Click here for the English version </a></h4>
 </p>
 
@@ -77,7 +77,7 @@ Los códigos aqui presentes permiten calcular algunos de los algoritmos mas impo
 
 
 
-En el caso de no querer descargar los `.tns`, en la carpeta "src" se encuentran los códigos en TI-BASIC de todas las funciones del cuadro de acontinuación.
+En el caso de no querer descargar los `.tns`, en la carpeta "`src`" se encuentran los códigos en TI-BASIC de todas las funciones del cuadro de acontinuación.
 
 
 
