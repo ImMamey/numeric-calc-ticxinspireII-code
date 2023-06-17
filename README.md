@@ -25,8 +25,10 @@ Los códigos aqui presentes permiten calcular algunos de los algoritmos mas impo
 > Por ejemplo:
 <table align="center">
 <tr>
-    <td align="center"><img src="resources\images\example.png" width="300px;" alt="" style="max-width:100%;"><br><sub><b>sistemas de ec lineales</b></sub></td>
+    <td align="center"><img src="resources\images\example.png" width="300px;" alt="" style="max-width:100%;"><br><sub><b>Sistema de ecuaciones lineales</b></sub></td>
     <td align="center"><img src="resources\images\example2.png" width="330px;" alt="" style="max-width:100%;"><br><sub><b>Minimos potenciales</b></sub></td>
+    <td align="center"><img src="resources\images\example3.png" width="350px;" alt="" style="max-width:100%;"><br><sub><b>Raices por metodo secante</b></sub></td>
+    <td align="center"><img src="resources\images\example4.png" width="350px;" alt="" style="max-width:100%;"><br><sub><b>REcuaciones lineales Gauss-Seidel</b></sub></td>
 </tr>
 </table>
 
