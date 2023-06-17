@@ -62,12 +62,7 @@
 ## Contenido de cada archivo tns respecto al tema:
 
 
-<style>
-    table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
+
 <table style="width:100%">
     <tr>
        <th> Tema </th>
