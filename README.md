@@ -20,12 +20,15 @@
 
 Este repositorio es una collecion de codigos automatizados escritos en TI-Basic para calculadoras TI NSPIRE CX II CAS.
 
-Los códigos aqui presente permiten calcular algunos de los algoritmos mas importantes de cálculo numérico / métodos numericos, paso a paso, y con iteracion.
+Los códigos aqui presentes permiten calcular algunos de los algoritmos mas importantes de cálculo numérico / métodos numericos, paso a paso, y con iteraciones en caso de ser aplicable.
 
 > Por ejemplo:
-<p align="center">
-    <img src="resources\images\example.png" title="calculator" width="300">
-</p>
+<table align="center">
+<tr>
+    <td align="center"><img src="resources\images\example.png" width="300px;" alt="" style="max-width:100%;"><br><sub><b>sistemas de ec lineales</b></sub></td>
+    <td align="center"><img src="resources\images\example2.png" width="330px;" alt="" style="max-width:100%;"><br><sub><b>Minimos potenciales</b></sub></td>
+</tr>
+</table>
 
 ---
 
