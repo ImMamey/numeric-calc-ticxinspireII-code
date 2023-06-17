@@ -54,19 +54,24 @@
 2. En la carpeta `src` estan todos los programas, cada programa termina con `.tns`. Descargar todos los `.tns`
 3. Abrir la [pagina web para transferencia de archivos tns](https://nspireconnect.ti.com/nsc/file-transfer) y transferir todos los `.tns` a la calculadora conectada a la PC.
 > Guardar preferiblemente los códigos dentro de la carpeta `MyLib` dentro de la calculadora.
-4. Dentro de la calculadora presionar las siguientes opciones en orden: 
+4. Dentro de la calculadora seleccionar las siguientes opciones en orden: `Botón Home` → `Botón menu` → `Botón B`/`refresh all libraries`
 
-`Botón Home`->`menu`->`B`
 
-##### Con Poetry:
-4. Correr `poetry install` ara installar las dependencias
 ---
 
-## Usar el servidor
-#### Desde tu IDE
-* Click en `server.py` -> Run
+## Uso de los códigos en la calculadoras:
 
-## Usar el Cliente
-#### Desde tu IDE
-* Clickear en `client.py`-> Run
+<style>
+    table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+<table style="width:100%">
+    <tr>
+       <th> Tema </th>
+       <th> TNS con códigos </th> 
+       <th> Funciones</th>
+    </tr>
+</table>
 
