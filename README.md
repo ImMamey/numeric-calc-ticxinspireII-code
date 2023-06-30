@@ -72,14 +72,6 @@ Los códigos aqui presentes permiten calcular algunos de los algoritmos mas impo
 > Guardar preferiblemente los códigos dentro de la carpeta `MyLib` dentro de la calculadora.
 4. Dentro de la calculadora seleccionar las siguientes opciones en orden: `Botón Home` → `Botón menu` → `Botón B`/`refresh all libraries`
 
----
-## Códigos originales para cada funcion
-
-
-
-En el caso de no querer descargar los `.tns`, en la carpeta "`src`" se encuentran los códigos en TI-BASIC de todas las funciones del cuadro de acontinuación.
-
-
 
 ---
 
