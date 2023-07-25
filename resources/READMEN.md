@@ -5,7 +5,7 @@
 
 
 
-## Desarrollador
+## Developer
 <table align="center">
 <tbody>
 <tr>
@@ -15,7 +15,7 @@
 </table>
 
 ---
-## Sobre este repositorio
+## About this repository
 
 
 This repository is a collection of automated codes written in TI-Basic for TI NSPIRE CX II CAS calculators.
@@ -57,36 +57,36 @@ The codes present here allow to calculate some of the most important numerical c
     <img src="resources\images\calc.jpg" title="calculator" width="300">
 </p>
 
-### Software y extras:
+### Software and extras:
 
-* Calculadora con OS versión: 5.4.0.259 (mínimo)
-* [TI-Nspire CX CAS Student Software](https://education.ti.com/en/software/details/en/36BE84F974E940C78502AA47492887AB/ti-nspirecxcas_pc_full) version: 6.0.3.374: programa de escritorio para probar los códigos en PC y transferencia de archivos.
-* [Pagina web para transferencia de archivos](https://nspireconnect.ti.com/nsc/file-transfer): en el caso de no poseer licencia para usar TI-Nspire CX CAS Student Software (OPCIONAL) 
-
----
-## Installación en la calculadora
-
-1. Descargar el repositorio.
-2. En la carpeta "`tns`" estan todos los archivos `.tns`, estos son los códigos que se deben de pasar a la calculadora (o al programa de estudiantes).
-3. Abrir la [pagina web para transferencia de archivos tns](https://nspireconnect.ti.com/nsc/file-transfer) y transferir todos los `.tns` a la calculadora.
-> Guardar preferiblemente los códigos dentro de la carpeta `MyLib` dentro de la calculadora.
-4. Dentro de la calculadora seleccionar las siguientes opciones en orden: `Botón Home` → `Botón menu` → `Botón B`/`refresh all libraries`
-
+* Calculator with OS versión: 5.4.0.259 (at minimun)
+* [TI-Nspire CX CAS Student Software](https://education.ti.com/en/software/details/en/36BE84F974E940C78502AA47492887AB/ti-nspirecxcas_pc_full) version: 6.0.3.374: Desktop program to test codes on PC and transfer files.
+* [File transfer website](https://nspireconnect.ti.com/nsc/file-transfer): in the case of not having a license to use TI-Nspire CX CAS Student Software (OPTIONAL) 
 
 ---
+## Installation on the calculator
 
-## Contenido de cada archivo tns respecto al tema:
+1. Download the repository.
+2. In the "`tns`" folder are all the `.tns` files, these are the codes that must be passed to the calculator (or to the student program).
+3. Open the [web page for tns file transfer](https://nspireconnect.ti.com/nsc/file-transfer) and transfer all the `.tns` to the calculator.
+> Preferably save the codes inside the `MyLib` folder inside the calculator.
+4. In the calculator select the following options in order: `Home Button` → `Menu Button` → `B Button`/`refresh all libraries`
+
+
+---
+
+## Content of each tns file regarding the topic:
 
 
 
 <table style="width:100%">
     <tr>
-       <th> Tema </th>
-       <th> TNS con códigos </th> 
-       <th> Funciones</th>
+       <th> Topic </th>
+       <th> TNS </th> 
+       <th> Functions</th>
     </tr>
     <tr>
-        <th rowspan="3">Raices de Ecuaciones no lineales</th>
+        <th rowspan="3">Roots of Nonlinear Equations</th>
         <th> raice_biseccion.tns </th>
         <th> secante()<br> secante_pap()</th>
     </tr>
