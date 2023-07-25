@@ -3,7 +3,7 @@
     <h4 align="center"> <a href="/README.md">Click here for the Spanish version </a></h4>
 </p>
 
-
+> # [IMPORTANT]: The codes in this repo are written in spanish.
 
 ## Developer
 <table align="center">
