@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center"/> Algorithms for NSPIRE CX II CAS Calculators for Numerical Calculation </h1>
-    <h4 align="center"> <a href="resources">Click here for the Spanish version </a></h4>
+    <h4 align="center"> <a href="/README.md">Click here for the Spanish version </a></h4>
 </p>
 
 
