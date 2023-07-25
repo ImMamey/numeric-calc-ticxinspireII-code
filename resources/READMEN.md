@@ -1,6 +1,6 @@
 <p align="center">
-    <h1 align="center"/> Algoritmos para calculadoras NSPIRE CX II CAS de Cálculo Numerico </h1>
-    <h4 align="center"> <a href="resources">Click here for the English version </a></h4>
+    <h1 align="center"/> Algorithms for NSPIRE CX II CAS Calculators for Numerical Calculation </h1>
+    <h4 align="center"> <a href="resources">Click here for the Spanish version </a></h4>
 </p>
 
 
@@ -18,9 +18,9 @@
 ## Sobre este repositorio
 
 
-Este repositorio es una collecion de codigos automatizados escritos en TI-Basic para calculadoras TI NSPIRE CX II CAS.
+This repository is a collection of automated codes written in TI-Basic for TI NSPIRE CX II CAS calculators.
 
-Los códigos aqui presentes permiten calcular algunos de los algoritmos mas importantes de cálculo numérico / métodos numericos, paso a paso, y con iteraciones en caso de ser aplicable.
+The codes present here allow to calculate some of the most important numerical computation algorithms / numerical methods, step by step, and with iterations if applicable.
 
 > Por ejemplo:
 <table align="center">
