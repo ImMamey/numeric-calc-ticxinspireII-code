@@ -134,4 +134,4 @@ The codes present here allow to calculate some of the most important numerical c
  2. I am not responsible for the use (or possible damages) for the use of the codes present here.
  3. You are free to distribute the codes here present.
 
-For more information read the file [`LICENSE`](resources/legal/LICENSE)
+For more information read the file [`LICENSE`](/resources/legal/LICENSE)
