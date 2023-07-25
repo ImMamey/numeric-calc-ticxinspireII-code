@@ -25,10 +25,10 @@ The codes present here allow to calculate some of the most important numerical c
 > For example:
 <table align="center">
 <tr>
-    <td align="center"><img src="\resources\images\example.png" width="300px;" alt="" style="max-width:100%;"><br><sub><b>System of linear equations</b></sub></td>
-    <td align="center"><img src="\resources\images\example2.png" width="330px;" alt="" style="max-width:100%;"><br><sub><b>Potential minima</b></sub></td>
-    <td align="center"><img src="\resources\images\example3.png" width="350px;" alt="" style="max-width:100%;"><br><sub><b>Roots by secant method</b></sub></td>
-    <td align="center"><img src="\resources\images\example4.png" width="350px;" alt="" style="max-width:100%;"><br><sub><b>Linear Gauss-Seidel Equations</b></sub></td>
+    <td align="center"><img src="/resources/images/example.png" width="300px;" alt="" style="max-width:100%;"><br><sub><b>System of linear equations</b></sub></td>
+    <td align="center"><img src="/resources/images/example2.png" width="330px;" alt="" style="max-width:100%;"><br><sub><b>Potential minima</b></sub></td>
+    <td align="center"><img src="/resources/images/example3.png" width="350px;" alt="" style="max-width:100%;"><br><sub><b>Roots by secant method</b></sub></td>
+    <td align="center"><img src="/resources/images/example4.png" width="350px;" alt="" style="max-width:100%;"><br><sub><b>Linear Gauss-Seidel Equations</b></sub></td>
 </tr>
 </table>
 
@@ -54,7 +54,7 @@ The codes present here allow to calculate some of the most important numerical c
 ## Requirements
 * [Texas Instruments NSpire CX II CAS](https://education.ti.com/en/products/calculators/graphing-calculators/ti-nspire-cx-ii-cx-ii-cas)
 <p align="center">
-    <img src="resources\images\calc.jpg" title="calculator" width="300">
+    <img src="/resources/images/calc.jpg" title="calculator" width="300">
 </p>
 
 ### Software and extras:
