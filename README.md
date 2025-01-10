@@ -1,20 +1,40 @@
 <p align="center">
-    <h1 align="center"/> Algoritmos para calculadoras NSPIRE CX II CAS de Cálculo Numerico </h1>
-    <h4 align="center"> <a href="/resources/READMEN.md">Click here for the English version </a></h4>
+    <h1 align="center">Algoritmos para calculadoras NSPIRE CX II CAS de Cálculo Numerico</h1>
 </p>
 
-
+<p align="center">
+    <img src="https://img.shields.io/github/stars/ImMamey/numeric-calc-ticxinspireII-code?color=white" alt="Stars"/>
+    <img src="https://img.shields.io/github/commit-activity/t/ImMamey/numeric-calc-ticxinspireII-code?color=white" alt="Commits"/>
+    <img src="https://img.shields.io/github/v/release/ImMamey/numeric-calc-ticxinspireII-code?color=white" alt="Version"/>
+    <img src="https://img.shields.io/github/issues/ImMamey/numeric-calc-ticxinspireII-code?color=white" alt="Issues"/>
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
+</p>
+> [!NOTE]
+> [Click here for the English version](/resources/READMEN.md)
 
 ## Desarrollador
-<table align="center">
-<tbody>
-<tr>
-<td align="center"><a href="https://github.com/ImMamey" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/32584037?v=4" width="150px;" alt="" style="max-width:100%;"><br><sub><b>Mamey</b></sub></a><br><a href="https://github.com/ImMamey/Practica-5-DDNS/commits?author=ImMamey" title="Commits"><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji></a></td>
-</tr>
-</tbody>
-</table>
+<p align="center">
+  <a href="https://github.com/ImMamey" rel="nofollow">
+    <img src="https://avatars.githubusercontent.com/u/32584037?v=4" width="150px;" alt="Mamey" style="border-radius:50%;">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ImMamey" rel="nofollow"><b>Mamey</b></a><br>
+  <a href="https://github.com/ImMamey/numeric-calc-ticxinspireII-code/commits?author=ImMamey" title="Commits">📖 Commits</a>
+</p>
 
 ---
+## Tabla de contenidos
+- [Sobre este repositorio](#sobre-este-repositorio)
+- [Códigos disponibles](#códigos-disponibles)
+- [Requisitos](#requisitos)
+  - [Software y extras](#software-y-extras)
+- [Instalación en la calculadora](#installación-en-la-calculadora)
+- [Algoritmos disponibles por archivo](#contenido-de-cada-archivo-tns-respecto-al-tema)
+- [Contribuciones](#contribuciones)
+- [Apoyo](#aopoyo)
+- [Licencia](#licencia)
+
 ## Sobre este repositorio
 
 
@@ -22,60 +42,77 @@ Este repositorio es una collecion de codigos automatizados escritos en TI-Basic 
 
 Los códigos aqui presentes permiten calcular algunos de los algoritmos mas importantes de cálculo numérico / métodos numericos, paso a paso, y con iteraciones en caso de ser aplicable.
 
-> Por ejemplo:
-<table align="center">
-<tr>
-    <td align="center"><img src="resources\images\example.png" width="300px;" alt="" style="max-width:100%;"><br><sub><b>Sistema de ecuaciones lineales</b></sub></td>
-    <td align="center"><img src="resources\images\example2.png" width="330px;" alt="" style="max-width:100%;"><br><sub><b>Minimos potenciales</b></sub></td>
-    <td align="center"><img src="resources\images\example3.png" width="350px;" alt="" style="max-width:100%;"><br><sub><b>Raices por metodo secante</b></sub></td>
-    <td align="center"><img src="resources\images\example4.png" width="350px;" alt="" style="max-width:100%;"><br><sub><b>Ecuaciones lineales Gauss-Seidel</b></sub></td>
-</tr>
-</table>
-
+<div align="center">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <a href="resources/images/example.png">
+      <img src="resources/images/example.png" width="270" height="200" alt="Sistema de ecuaciones lineales"/>
+    </a>
+    <br><sub><b>Sistema de ecuaciones lineales</b></sub>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <a href="resources/images/example2.png">
+      <img src="resources/images/example2.png" width="270" height="200" alt="Minimos potenciales"/>
+    </a>
+    <br><sub><b>Minimos potenciales</b></sub>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <a href="resources/images/example3.png">
+      <img src="resources/images/example3.png" width="270" height="200" alt="Raices por metodo secante"/>
+    </a>
+    <br><sub><b>Raices por metodo secante</b></sub>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <a href="resources/images/example4.png">
+      <img src="resources/images/example4.png" width="270" height="200" alt="Ecuaciones lineales Gauss-Seidel"/>
+    </a>
+    <br><sub><b>Ecuaciones lineales Gauss-Seidel</b></sub>
+  </div>
+</div>
 ---
 
 ## Códigos disponibles:
-* Interpolación (de segundo y tercer grado).
+* Interpolación[^1].
 * Mínimos cuadrados.
 * Mínimos exponenciales.
 * Mínimos potenciales.
 * Regresión lineal de grado 2.
 * Regresión lineal de grado 3.
 * Metodo iterativo de Jacobi para matrices.
-* Convergencia (radio espectral) para Jacobi.
+* Convergencia para Jacobi[^2].
 * Metodo iterativo de Gauss-Seidel para matrices.
 * Raices cuadradas por el método iterativo de la secante.
 * Raices cuadradas por el método iterativo de bisección.
 * Raices cuadradas por el método iterativo de Newton.
 * Sistemas de ecuaciones no lineales de Newton.
 
+[^1]: De segundo y tercer grado.
+[^2]: Radio espectrall.
+
 ---
 
 ## Requisitos
 * [Texas Instruments NSpire CX II CAS](https://education.ti.com/en/products/calculators/graphing-calculators/ti-nspire-cx-ii-cx-ii-cas)
 <p align="center">
-    <img src="resources\images\calc.jpg" title="calculator" width="300">
+    <img src="resources\images\calc.png" title="calculator" width="300">
 </p>
 
 ### Software y extras:
+* **Calculadora**: OS versión 5.4.0.259 (mínimo)
+* **Software de Estudiante TI-Nspire CX CAS**: [Descargar aquí](https://education.ti.com/en/software/details/en/36BE84F974E940C78502AA47492887AB/ti-nspirecxcas_pc_full) (versión 6.0.3.374). Este programa de escritorio permite probar los códigos en PC y transferir archivos.
+* **Transferencia de Archivos**: [Página web para transferencia de archivos](https://nspireconnect.ti.com/nsc/file-transfer) (opcional, en caso de no poseer licencia para usar el software de estudiante TI-Nspire CX CAS).
 
-* Calculadora con OS versión: 5.4.0.259 (mínimo)
-* [TI-Nspire CX CAS Student Software](https://education.ti.com/en/software/details/en/36BE84F974E940C78502AA47492887AB/ti-nspirecxcas_pc_full) version: 6.0.3.374: programa de escritorio para probar los códigos en PC y transferencia de archivos.
-* [Pagina web para transferencia de archivos](https://nspireconnect.ti.com/nsc/file-transfer): en el caso de no poseer licencia para usar TI-Nspire CX CAS Student Software (OPCIONAL) 
-
----
 ## Installación en la calculadora
 
-1. Descargar el repositorio.
-2. En la carpeta "`tns`" estan todos los archivos `.tns`, estos son los códigos que se deben de pasar a la calculadora (o al programa de estudiantes).
-3. Abrir la [pagina web para transferencia de archivos tns](https://nspireconnect.ti.com/nsc/file-transfer) y transferir todos los `.tns` a la calculadora.
-> Guardar preferiblemente los códigos dentro de la carpeta `MyLib` dentro de la calculadora.
-4. Dentro de la calculadora seleccionar las siguientes opciones en orden: `Botón Home` → `Botón menu` → `Botón B`/`refresh all libraries`
-
+1. **Descargar el repositorio**.
+2. **Ubicar los archivos**: En la carpeta `tns` están todos los archivos `.tns`, estos son los códigos que se deben transferir a la calculadora (o al programa de estudiantes).
+3. **Transferir archivos**: Abrir la [página web para transferencia de archivos tns](https://nspireconnect.ti.com/nsc/file-transfer) y transferir todos los archivos `.tns` a la calculadora.
+   > [!TIP]
+   > Guardar preferiblemente los códigos dentro de la carpeta `MyLib` dentro de la calculadora.
+4. **Actualizar bibliotecas**: Dentro de la calculadora, seleccionar las siguientes opciones en orden: `Botón Home` → `Botón menu` → `Botón B` (refresh all libraries).
 
 ---
 
-## Contenido de cada archivo tns respecto al tema:
+## Algoritmos disponibles por archivo:
 
 
 
@@ -127,6 +164,17 @@ Los códigos aqui presentes permiten calcular algunos de los algoritmos mas impo
 </table>
 
 ---
+## Contribuciones
+
+Este código no está en mantenimiento activo.
+
+Sin embargo, si encuentras algún error, por favor genera un issue en el repositorio para que pueda ser revisado.
+
+## Apoyo
+
+El contenido de este repositorio es **gratis y open-source**. 
+
+Aunque ya no se realizan actualizaciones activas, sigue siendo un recurso educativo útil para tanto estudiantes y profesores. Puedes apoyar dando una ⭐ al repositorio o compartiéndolo con otros.
 
 ## Licencia
 #### Resumen:
