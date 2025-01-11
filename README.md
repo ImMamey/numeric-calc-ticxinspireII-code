@@ -9,7 +9,8 @@
     <img src="https://img.shields.io/github/issues/ImMamey/numeric-calc-ticxinspireII-code?color=white" alt="Issues"/>
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
 </p>
-> [!NOTE]
+
+>[!NOTE]
 > [Click here for the English version](/resources/READMEN.md)
 
 ## Desarrollador
@@ -106,8 +107,10 @@ Los códigos aqui presentes permiten calcular algunos de los algoritmos mas impo
 1. **Descargar el repositorio**.
 2. **Ubicar los archivos**: En la carpeta `tns` están todos los archivos `.tns`, estos son los códigos que se deben transferir a la calculadora (o al programa de estudiantes).
 3. **Transferir archivos**: Abrir la [página web para transferencia de archivos tns](https://nspireconnect.ti.com/nsc/file-transfer) y transferir todos los archivos `.tns` a la calculadora.
-   > [!TIP]
-   > Guardar preferiblemente los códigos dentro de la carpeta `MyLib` dentro de la calculadora.
+   
+> [!TIP]
+> Guardar preferiblemente los códigos dentro de la carpeta `MyLib` dentro de la calculadora.
+
 4. **Actualizar bibliotecas**: Dentro de la calculadora, seleccionar las siguientes opciones en orden: `Botón Home` → `Botón menu` → `Botón B` (refresh all libraries).
 
 ---
