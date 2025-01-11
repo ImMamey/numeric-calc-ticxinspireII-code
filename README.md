@@ -7,7 +7,9 @@
     <img src="https://img.shields.io/github/commit-activity/t/ImMamey/numeric-calc-ticxinspireII-code?color=white" alt="Commits"/>
     <img src="https://img.shields.io/github/v/release/ImMamey/numeric-calc-ticxinspireII-code?color=white" alt="Version"/>
     <img src="https://img.shields.io/github/issues/ImMamey/numeric-calc-ticxinspireII-code?color=white" alt="Issues"/>
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
+    <a href="https://ko-fi.com/immamey">
+        <img src="https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
+    </a>
 </p>
 
 >[!NOTE]
