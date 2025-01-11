@@ -42,32 +42,14 @@ This repository is a collection of automated codes written in TI-Basic for TI NS
 
 The codes present here allow you to calculate some of the most important numerical calculation algorithms / numerical methods, step by step, and with iterations if applicable.
 
-<div align="center">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <a href="images/example.png">
-      <img src="images/example.png" width="270" height="200" alt="System of linear equations"/>
-    </a>
-    <br><sub><b>System of linear equations</b></sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <a href="images/example2.png">
-      <img src="images/example2.png" width="270" height="200" alt="Potential minima"/>
-    </a>
-    <br><sub><b>Potential minima</b></sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <a href="images/example3.png">
-      <img src="images/example3.png" width="270" height="200" alt="Roots by secant method"/>
-    </a>
-    <br><sub><b>Roots by secant method</b></sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <a href="images/example4.png">
-      <img src="images/example4.png" width="270" height="200" alt="Linear equations Gauss-Seidel"/>
-    </a>
-    <br><sub><b>Linear equations Gauss-Seidel</b></sub>
-  </div>
-</div>
+<table align="center" border="0">
+<tr>
+    <td align="center"><img src="images/example.png" width="300px;" alt="" style="max-width:100%;"><br><sub><b>System of linear equations</b></sub></td>
+    <td align="center"><img src="images/example2.png" width="330px;" alt="" style="max-width:100%;"><br><sub><b>Potential minima</b></sub></td>
+    <td align="center"><img src="images/example3.png" width="350px;" alt="" style="max-width:100%;"><br><sub><b>Roots by secant method</b></sub></td>
+    <td align="center"><img src="images/example4.png" width="350px;" alt="" style="max-width:100%;"><br><sub><b>Linear equations Gauss-Seidel</b></sub></td>
+</tr>
+</table>
 
 
 ## Available codes:

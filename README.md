@@ -43,32 +43,14 @@ Este repositorio es una collecion de codigos automatizados escritos en TI-Basic 
 
 Los códigos aqui presentes permiten calcular algunos de los algoritmos mas importantes de cálculo numérico / métodos numericos, paso a paso, y con iteraciones en caso de ser aplicable.
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
-  <div style="text-align: center; margin: 10px;">
-    <a href="resources/images/example.png">
-      <img src="resources/images/example.png" width="270" alt="Sistema de ecuaciones lineales"/>
-    </a>
-    <br><sub><b>Sistema de ecuaciones lineales</b></sub>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <a href="resources/images/example2.png">
-      <img src="resources/images/example2.png" width="270" alt="Minimos potenciales"/>
-    </a>
-    <br><sub><b>Minimos potenciales</b></sub>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <a href="resources/images/example3.png">
-      <img src="resources/images/example3.png" width="270" alt="Raices por metodo secante"/>
-    </a>
-    <br><sub><b>Raices por metodo secante</b></sub>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <a href="resources/images/example4.png">
-      <img src="resources/images/example4.png" width="270" alt="Ecuaciones lineales Gauss-Seidel"/>
-    </a>
-    <br><sub><b>Ecuaciones lineales Gauss-Seidel</b></sub>
-  </div>
-</div>
+<table align="center" border="0">
+<tr>
+    <td align="center"><img src="resources\images\example.png" width="300px;" alt="" style="max-width:100%;"><br><sub><b>Sistema de ecuaciones lineales</b></sub></td>
+    <td align="center"><img src="resources\images\example2.png" width="330px;" alt="" style="max-width:100%;"><br><sub><b>Minimos potenciales</b></sub></td>
+    <td align="center"><img src="resources\images\example3.png" width="350px;" alt="" style="max-width:100%;"><br><sub><b>Raices por metodo secante</b></sub></td>
+    <td align="center"><img src="resources\images\example4.png" width="350px;" alt="" style="max-width:100%;"><br><sub><b>Ecuaciones lineales Gauss-Seidel</b></sub></td>
+</tr>
+</table>
 
 
 ## Códigos disponibles:
