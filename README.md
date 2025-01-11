@@ -43,33 +43,33 @@ Este repositorio es una collecion de codigos automatizados escritos en TI-Basic 
 
 Los códigos aqui presentes permiten calcular algunos de los algoritmos mas importantes de cálculo numérico / métodos numericos, paso a paso, y con iteraciones en caso de ser aplicable.
 
-<div align="center">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
+  <div style="text-align: center; margin: 10px;">
     <a href="resources/images/example.png">
-      <img src="resources/images/example.png" width="270" height="200" alt="Sistema de ecuaciones lineales"/>
+      <img src="resources/images/example.png" width="270" alt="Sistema de ecuaciones lineales"/>
     </a>
     <br><sub><b>Sistema de ecuaciones lineales</b></sub>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="text-align: center; margin: 10px;">
     <a href="resources/images/example2.png">
-      <img src="resources/images/example2.png" width="270" height="200" alt="Minimos potenciales"/>
+      <img src="resources/images/example2.png" width="270" alt="Minimos potenciales"/>
     </a>
     <br><sub><b>Minimos potenciales</b></sub>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="text-align: center; margin: 10px;">
     <a href="resources/images/example3.png">
-      <img src="resources/images/example3.png" width="270" height="200" alt="Raices por metodo secante"/>
+      <img src="resources/images/example3.png" width="270" alt="Raices por metodo secante"/>
     </a>
     <br><sub><b>Raices por metodo secante</b></sub>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="text-align: center; margin: 10px;">
     <a href="resources/images/example4.png">
-      <img src="resources/images/example4.png" width="270" height="200" alt="Ecuaciones lineales Gauss-Seidel"/>
+      <img src="resources/images/example4.png" width="270" alt="Ecuaciones lineales Gauss-Seidel"/>
     </a>
     <br><sub><b>Ecuaciones lineales Gauss-Seidel</b></sub>
   </div>
 </div>
----
+
 
 ## Códigos disponibles:
 * Interpolación[^1].

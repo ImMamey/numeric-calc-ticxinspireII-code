@@ -44,31 +44,31 @@ The codes present here allow you to calculate some of the most important numeric
 
 <div align="center">
   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <a href="resources/images/example.png">
-      <img src="resources/images/example.png" width="270" height="200" alt="System of linear equations"/>
+    <a href="images/example.png">
+      <img src="images/example.png" width="270" height="200" alt="System of linear equations"/>
     </a>
     <br><sub><b>System of linear equations</b></sub>
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <a href="resources/images/example2.png">
-      <img src="resources/images/example2.png" width="270" height="200" alt="Potential minima"/>
+    <a href="images/example2.png">
+      <img src="images/example2.png" width="270" height="200" alt="Potential minima"/>
     </a>
     <br><sub><b>Potential minima</b></sub>
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <a href="resources/images/example3.png">
-      <img src="resources/images/example3.png" width="270" height="200" alt="Roots by secant method"/>
+    <a href="images/example3.png">
+      <img src="images/example3.png" width="270" height="200" alt="Roots by secant method"/>
     </a>
     <br><sub><b>Roots by secant method</b></sub>
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px;">
-    <a href="resources/images/example4.png">
-      <img src="resources/images/example4.png" width="270" height="200" alt="Linear equations Gauss-Seidel"/>
+    <a href="images/example4.png">
+      <img src="images/example4.png" width="270" height="200" alt="Linear equations Gauss-Seidel"/>
     </a>
     <br><sub><b>Linear equations Gauss-Seidel</b></sub>
   </div>
 </div>
----
+
 
 ## Available codes:
 * Interpolation[^1].
@@ -93,7 +93,7 @@ The codes present here allow you to calculate some of the most important numeric
 ## Requirements
 * [Texas Instruments NSpire CX II CAS](https://education.ti.com/en/products/calculators/graphing-calculators/ti-nspire-cx-ii-cx-ii-cas)
 <p align="center">
-    <img src="resources\images\calc.png" title="calculator" width="300">
+    <img src="images\calc.png" title="calculator" width="300">
 </p>
 
 ### Software and extras:
@@ -106,7 +106,10 @@ The codes present here allow you to calculate some of the most important numeric
 1. **Download the repository**.
 2. **Locate the files**: In the `tns` folder are all the `.tns` files, these are the codes that need to be transferred to the calculator (or the student program).
 3. **Transfer files**: Open the [tns file transfer webpage](https://nspireconnect.ti.com/nsc/file-transfer) and transfer all `.tns` files to the calculator.
-   > **TIP:** Preferably save the codes inside the `MyLib` folder within the calculator.
+
+> [!TIP]
+> Preferably save the codes inside the `MyLib` folder within the calculator.
+
 4. **Update libraries**: Within the calculator, select the following options in order: `Home Button` → `Menu Button` → `Button B` (refresh all libraries).
 
 ---
